@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "cityName": "Tokat"
+    },
+    {
+      "id": 2,
+      "cityName": "Sivas"
+    },
+    {
+      "id": 3,
+      "cityName": "Ankara"
+    },
+    {
+      "id": 4,
+      "cityName": "Istanbul"
+    },
+    {
+      "id": 5,
+      "cityName": "Paris"
+    },
+    {
+      "id": 6,
+      "cityName": "Ordu"
+    },
+    {
+      "id": 7,
+      "cityName": "Madrid"
+    },
+    {
+      "id": 8,
+      "cityName": "Rome"
+    },
+    {
+      "id": 9,
+      "cityName": "Berlin"
+    },
+    {
+      "id": 10,
+      "cityName": "London"
+    },
+    {
+      "id": 11,
+      "cityName": "Athens"
+    },
+    {
+      "id": 12,
+      "cityName": "New York"
+    },
+    {
+      "id": 13,
+      "cityName": "Tokyo"
+    },
+    {
+      "id": 14,
+      "cityName": "Beijing"
+    },
+    {
+      "id": 15,
+      "cityName": "Sydney"
+    },
+    {
+      "id": 16,
+      "cityName": "Rio de Janeiro"
+    },
+    {
+      "id": 17,
+      "cityName": "Cape Town"
+    },
+    {
+      "id": 18,
+      "cityName": "Toronto"
+    },
+    {
+      "id": 55,
+      "cityName": "Olleyya"
+    },
+  {
+    "id": 99,
+    "cityName": "Apales"
+  },
+  {
+    "id": 29,
+    "cityName": "XYZ"
+  },
+  {
+    "id": 33,
+    "cityName": "XYZ"
+  },
+  {
+    "id": 49,
+    "cityName": "ABCDEF"
+  }
+  ]
